@@ -5,3 +5,5 @@ Please do edits on the alpha branch instead of here if you want to do small chan
 
 Website Link:
   https://dualbronzefiletype.github.io/SocietyWeb/
+
+[Code Rules](about:blank)

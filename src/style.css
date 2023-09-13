@@ -3,6 +3,27 @@ body
     background-color: rgb(40, 40, 40);
     margin: 20px;
 }
+.nav-select
+{
+    float: left;
+}
+.nav-select a {
+    display: block;
+    padding: 8px;
+    color:aliceblue;
+    background-color: rgb(53, 53, 53);
+    text-decoration: none;
+}
+.nav-select a:hover
+{
+    background-color: aliceblue;
+    color:rgb(53, 53, 53);
+}
+.nav-bar .active
+{
+    background-color: aquamarine;
+    color: black;
+}
 *
 {
     color: whitesmoke;

@@ -1,4 +1,9 @@
 # PLHSComputerSociety
 Making a website for my school's society
 
-Please do edits on the alpha branch instead of here if you want to do small changes, then update the main branch after finishing the overall change done to alpha as an update.
+If you want to link files to the html you need to add the https://dualbronzefiletype.github.io/SocietyWeb/ before it so github would recognise where it is
+
+For example:
+```
+<image src="https://dualbronzefiletype.github.io/SocietyWeb/src/images/cat.png" /><br />
+```

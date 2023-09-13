@@ -3,6 +3,18 @@ body
     background-color: rgb(40, 40, 40);
     margin: 20px;
 }
+.nav-bar
+{
+   list-style-type: none;
+   margin: 100;
+   padding: 0;
+   width: auto;
+   background-color: rgb(53, 53, 53);
+   height: auto;
+   position: sticky;
+   overflow: hidden;
+   top: 0;
+}
 .nav-select
 {
     float: left;

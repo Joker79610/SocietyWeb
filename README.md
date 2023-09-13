@@ -1,13 +1,7 @@
 # PLHSComputerSociety
 Making a website for my school's society
 
-If you want to link files to the html you need to add the https://dualbronzefiletype.github.io/SocietyWeb/ before it so github would recognise where it is
+Please do edits on the alpha branch instead of here if you want to do small changes, then update the main branch after finishing the overall change done to alpha as an update.
 
-For example:
-```
-<image src="https://dualbronzefiletype.github.io/SocietyWeb/src/images/cat.png" /><br />
-```
-It should look like this:
-![image](https://raw.githubusercontent.com/DualBronzeFiletype/SocietyWeb/alpha/src/images/output.png)
-
-###### I have no idea how to tell github to ignore some files when merging but that seems impossible after searching for like idk 2 hours so instead create a branch from this and merge using the new branch before deleting it
+Website Link:
+  https://dualbronzefiletype.github.io/SocietyWeb/

@@ -1,6 +1,6 @@
 # CODE RULE
 
-If you want to link files to the html you need to add the https://dualbronzefiletype.github.io/SocietyWeb/ before it so github would recognise where it is
+If you want to link files to the html you need to add the `https://dualbronzefiletype.github.io/SocietyWeb/` before it so github would recognise where it is
 For example:
 
 ```html

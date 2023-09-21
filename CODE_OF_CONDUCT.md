@@ -8,3 +8,5 @@ The output would look like this:
 ![image](https://raw.githubusercontent.com/DualBronzeFiletype/SocietyWeb/alpha/src/images/output.png)
 
 Also please use tabs instead of spaces so your nad others ide or light editor can format it to your's and others liking.
+
+If the website won't make changes after updating, consider clearing your browser cache. There are however other problems that may lead to this and cannot simply fix it that easily.
